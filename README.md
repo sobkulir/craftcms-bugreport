@@ -1,5 +1,7 @@
 # A demo for CraftCMS bug
 
+Issue: https://github.com/craftcms/cms/issues/12847
+
 Querying GlobalSet in a Custom Field's `init()` creates an endless loop. The relevant code is
 in `modules/Module.php`. To reproduce, run:
 
