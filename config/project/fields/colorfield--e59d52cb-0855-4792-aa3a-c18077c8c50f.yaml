@@ -1,0 +1,112 @@
+columnSuffix: mpbwuuox
+contentColumnType: string
+fieldGroup: 9bc3ef5c-e268-4d4d-b1c0-ccb979d607aa # Common
+handle: colorfield
+instructions: ''
+name: colorField
+searchable: false
+settings:
+  optgroups: true
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - 'Choose a color'
+        -
+          - value
+          - ''
+        -
+          - disabled
+          - true
+    -
+      __assoc__:
+        -
+          - label
+          - Purple
+        -
+          - value
+          - purple
+        -
+          - disabled
+          - false
+    -
+      __assoc__:
+        -
+          - label
+          - Cyan
+        -
+          - value
+          - cyan
+        -
+          - disabled
+          - false
+    -
+      __assoc__:
+        -
+          - label
+          - Yellow
+        -
+          - value
+          - yellow
+        -
+          - disabled
+          - false
+    -
+      __assoc__:
+        -
+          - label
+          - Green
+        -
+          - value
+          - green
+        -
+          - disabled
+          - false
+    -
+      __assoc__:
+        -
+          - label
+          - Pink
+        -
+          - value
+          - pink
+        -
+          - disabled
+          - false
+    -
+      __assoc__:
+        -
+          - label
+          - Dark
+        -
+          - value
+          - dark
+        -
+          - disabled
+          - false
+    -
+      __assoc__:
+        -
+          - label
+          - Gray
+        -
+          - value
+          - gray
+        -
+          - disabled
+          - false
+    -
+      __assoc__:
+        -
+          - label
+          - Black
+        -
+          - value
+          - black
+        -
+          - disabled
+          - false
+translationKeyFormat: null
+translationMethod: none
+type: modules\SphColorField

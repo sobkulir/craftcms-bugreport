@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: en-US
+name: minimal
+primary: true
+siteGroup: aca96f2b-ec4d-48ca-946e-d3648780d469 # minimal
+sortOrder: 1

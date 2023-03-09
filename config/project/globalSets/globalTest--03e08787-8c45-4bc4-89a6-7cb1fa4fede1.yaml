@@ -1,0 +1,19 @@
+fieldLayouts:
+  04ee8883-0225-45b2-a7ad-e1fda0a3e70a:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: e59d52cb-0855-4792-aa3a-c18077c8c50f # colorField
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: 'Tab 1'
+        sortOrder: 1
+handle: globalTest
+name: global-test
+sortOrder: 1

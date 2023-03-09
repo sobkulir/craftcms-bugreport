@@ -1,0 +1,24 @@
+dateModified: 1678372155
+email:
+  fromEmail: f@f.c
+  fromName: minimal
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    03e08787-8c45-4bc4-89a6-7cb1fa4fede1: global-test # global-test
+    9bc3ef5c-e268-4d4d-b1c0-ccb979d607aa: Common # Common
+    a7781ed6-ce89-433f-be2d-fb1c42bf50ac: minimal # minimal
+    aca96f2b-ec4d-48ca-946e-d3648780d469: minimal # minimal
+    e59d52cb-0855-4792-aa3a-c18077c8c50f: colorField # colorField
+system:
+  edition: solo
+  live: true
+  name: minimal
+  schemaVersion: 3.8.0.1
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
